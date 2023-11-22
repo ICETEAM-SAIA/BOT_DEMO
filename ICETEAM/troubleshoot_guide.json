@@ -1,0 +1,86 @@
+{
+    "Machine does not start": {
+        "causes": {
+            "a": "Main switch open",
+            "b": "Machine unplugged",
+            "c": "Machine not set at production",
+            "d": "Front lids not perfectly closed"
+        },
+        "remedies": {
+            "a": "Close the main switch",
+            "b": "Check and plug in",
+            "c": "Check that PRODUCTION button is lit",
+            "d": "Check front lids closure"
+        }
+    },
+    "Machine does not start (display is lit)": {
+        "causes": {
+            "a": "The 3rd wire feeding compressor and electric motors is unconnected"
+        },
+        "remedies": {
+            "a": "Connect the 3rd wire or check whether a fuse burnt out"
+        }
+    },
+    "Compressor starts but stops after a few seconds without the ice cream being thick": {
+        "causes": {
+            "a": "Watercooled machine: water not circulating",
+            "b": "Aircooled machine: air not circulating"
+        },
+        "remedies": {
+            "a": "Open water cock and check that rubber pipe is not squashed or very doubled up",
+            "b": "Check the machine rear is at least 50 cm far from wall and clean condenser obstructed by rags dust etc. Check that fan motor runs regularly"
+        }
+    },
+    "After 15 minutes freezing the mix does not freeze down and the machine returns to STOP": {
+        "causes": {
+            "a": "No gas",
+            "b": "Pressure switch out of order"
+        },
+        "remedies": {
+            "a": "Check leak and then weld and refill",
+            "b": "Check the connection and replace it if need be"
+        }
+    },
+    "Machine runs but no ice cream comes out of ice cream door": {
+        "causes": {
+            "a": "Not enough sugar in the mix"
+        },
+        "remedies": {
+            "a": "Allow to thaw then modify or replace the mix"
+        }
+    },
+    "Machine runs but ice cream is too soft": {
+        "causes": {
+            "a": "Too much sugar in the mix"
+        },
+        "remedies": {
+            "a": "Modify or replace the mix"
+        }
+    },
+    "Ice cream mix in the drip drawer": {
+        "causes": {
+            "a": "Stuffing box missing or worn"
+        },
+        "remedies": {
+            "a": "Insert if missing. Replace if worn"
+        }
+    },
+    "Ice cream comes out behind the ice cream door": {
+        "causes": {
+            "a": "Gasket missing or not properly installed"
+        },
+        "remedies": {
+            "a": "Check and insert"
+        }
+    },
+    "Bacteria tests show too high level": {
+        "causes": {
+            "a": "Too high bacteria charge in the mix",
+            "b": "Machine not clean and sterile enough"
+        },
+        "remedies": {
+            "a": "Improve preparation procedure by sanitizing all containers spoons etc. and have the mix analyzed before pouring it into the machine",
+            "b": "Empty and clean the machine thoroughly. Sanitize as described in chapter 6"
+        }
+    }
+}

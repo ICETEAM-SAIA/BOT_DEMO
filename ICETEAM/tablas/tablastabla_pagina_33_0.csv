@@ -1,0 +1,12 @@
+Step,Display,Notes,U.M.,MIN,MAX,DEFAULT
+U01,Hours,,Hours,0,23,
+U02,Minutes,,Min,0,59,
+U03,Day of the Week,,DD,Sun,Sat,
+U04,Day of the Month,,DD,1,31,
+U05,Month,,MM,1,12,
+U06,Year,,YYYY,2000,2099,
+U07,Language,"Ita, Eng. Fra, Deu",n°,Ita,Deu,ITA
+U10,Temp. Backlight,,min,0,60,03
+U11,Extr. 1 Speed,GS= Slush Speed,n°,1,7+GS,07
+U12,Extr. 2 Speed,GS= Slush Speed,n°,1,7+GS,03
+U13,TEC PRD display,,Y/N,N,Y,N

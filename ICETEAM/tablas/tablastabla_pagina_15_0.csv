@@ -1,0 +1,5 @@
+Model,Minimum mixing quantity per batch,Maximum mixing quantity per batch,Electric power(Volt),Electric power(Hz),Electric power(Phases),Installed power(kW)
+Compacta VariO 8,1.5, 8,400,50,3,8.8
+Compacta VariO 10,1.5,10,400,50,3,12
+Compacta VariO 12,1.5,12,400,50,3,14
+Compacta Vario 16,2.5,16,400,50,3,22
