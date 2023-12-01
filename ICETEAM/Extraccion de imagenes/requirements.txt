@@ -2,4 +2,5 @@ opencv-python
 Pillow            
 PyMuPDF           
 PyPDF2            
-pip               
+pip     
+scikit-image          
